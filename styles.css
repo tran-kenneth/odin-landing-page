@@ -38,3 +38,14 @@ Quote text
 body{
   font-family: roboto, sans-serif;
 }
+
+/* Testimonial Section */
+.testimonial-section{
+  background-color: #E5E7EB;
+}
+
+.quote-text{
+  color: #1F2937;
+  font-size: 36px;
+  font-style: italic;
+}
