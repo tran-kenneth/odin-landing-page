@@ -67,11 +67,23 @@ body{
 /* Title Section */
 .title-container{
   display: flex;
+  background-color: #1F2937;
 }
 
 h1{
   font-size: 48px;
   font-weight: 800;
+  color: #F9FAF8;
+}
+
+.title-secondary, .placeholder{
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+.placeholder{
+  background-color: gray;
+  width: 600px;
 }
 
 /* Testimonial Section */
