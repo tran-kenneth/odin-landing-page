@@ -64,6 +64,16 @@ body{
   padding-right: 20px;
 }
 
+/* Title Section */
+.title-container{
+  display: flex;
+}
+
+h1{
+  font-size: 48px;
+  font-weight: 800;
+}
+
 /* Testimonial Section */
 .testimonial-section{
   background-color: #E5E7EB;
