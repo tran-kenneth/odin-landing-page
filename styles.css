@@ -97,3 +97,9 @@ h1{
   font-style: italic;
   font-weight: 300;
 }
+
+/* Footer */
+footer{
+  background-color: #1F2937;
+  color: #F9FAF8;
+}
