@@ -97,6 +97,7 @@ h2 {
 
 .information-container {
   display: flex;
+  justify-content: center;
 }
 
 .info-item {
