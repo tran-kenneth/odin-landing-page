@@ -121,6 +121,9 @@ h2 {
 /* Testimonial Section */
 .testimonial-section {
   background-color: #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .quote-text {
