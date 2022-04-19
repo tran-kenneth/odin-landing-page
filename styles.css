@@ -134,6 +134,13 @@ h2 {
   width: 820px;
 }
 
+.quote-person {
+  font-size: 18px;
+  font-weight: 700;
+  width: 820px;
+  text-align: right;
+}
+
 /* Footer */
 footer {
   background-color: #1f2937;
