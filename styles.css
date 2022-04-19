@@ -100,10 +100,15 @@ h2 {
 }
 
 .rounded-square {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border: 5px solid #3882f6;
   border-radius: 12px;
+}
+
+.square-subtext {
+  width: 150px;
+  text-align: center;
 }
 
 /* Testimonial Section */
