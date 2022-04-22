@@ -139,6 +139,15 @@ h2 {
   font-size: 14px;
 }
 
+.cta-section button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  width: 100px;
+  height: 30px;
+  border: 2px solid #f9faf8;
+  border-radius: 10px;
+}
+
 /* Footer */
 footer {
   background-color: #1f2937;
