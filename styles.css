@@ -109,6 +109,7 @@ h2 {
 .cta-section {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 
   width: 600px;
   height: auto;
