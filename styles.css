@@ -142,6 +142,10 @@ h2 {
   text-align: right;
 }
 
+/* Call to Action */
+.cta-section {
+  display: flex;
+}
 /* Footer */
 footer {
   background-color: #1f2937;
