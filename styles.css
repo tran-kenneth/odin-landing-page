@@ -147,22 +147,30 @@ h2 {
   display: flex;
   justify-content: space-between;
 
-  height: 100px;
   width: 600px;
+  height: auto;
+
   margin: 40px auto;
 
   background-color: #3882f6;
 
   border-radius: 12px;
-  padding: 20px;
+  padding: 40px 60px;
+}
+
+.cta-text-container {
+  display: flex;
+  flex-direction: column;
 }
 
 .cta-text-container h4 {
   color: #f9faf8;
+  margin: 2px;
 }
 
 .cta-text-container p {
   color: #e5e7eb;
+  margin: 2px;
 }
 
 /* Footer */
