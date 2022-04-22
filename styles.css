@@ -166,11 +166,14 @@ h2 {
 .cta-text-container h4 {
   color: #f9faf8;
   margin: 2px;
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .cta-text-container p {
   color: #e5e7eb;
   margin: 2px;
+  font-size: 14px;
 }
 
 /* Footer */
