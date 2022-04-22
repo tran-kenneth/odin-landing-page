@@ -50,6 +50,16 @@ h1 {
   width: 600px;
 }
 
+.title-container button {
+  color: #f9faf8;
+  font-weight: 700;
+  background-color: #3882f6;
+  width: 80px;
+  height: 30px;
+  border-style: none;
+  border-radius: 5px;
+}
+
 /*  Information Section */
 h2 {
   text-align: center;
