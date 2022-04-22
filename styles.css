@@ -98,6 +98,7 @@ h2 {
 .information-container {
   display: flex;
   justify-content: center;
+  gap: 20px;
 }
 
 .info-item {
