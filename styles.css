@@ -55,7 +55,8 @@ h1 {
 .placeholder {
   display: flex;
   background-color: gray;
-  width: 600px;
+  width: 400px;
+  height: 200px;
   text-align: center;
   justify-content: center;
   align-items: center;
