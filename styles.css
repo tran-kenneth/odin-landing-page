@@ -10,6 +10,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .header-logo {
