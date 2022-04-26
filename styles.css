@@ -50,6 +50,12 @@ h1 {
   font-size: 48px;
   font-weight: 800;
   color: #f9faf8;
+  margin: 0;
+}
+
+.title-secondary {
+  margin-top: 0;
+  margin-bottom: 10px;
 }
 
 .title-secondary,
