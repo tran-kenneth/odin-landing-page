@@ -35,7 +35,7 @@ body {
 .title-container {
   display: flex;
   background-color: #1f2937;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -43,7 +43,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 450px;
-  padding: 20px;
+  padding: 40px 0 100px 100px;
 }
 
 h1 {
@@ -68,10 +68,12 @@ h1 {
   display: flex;
   background-color: gray;
   width: 400px;
-  height: 200px;
+  height: 220px;
   text-align: center;
   justify-content: center;
   align-items: center;
+  margin-right: 120px;
+  margin-bottom: 40px;
 }
 
 .title-container button {
