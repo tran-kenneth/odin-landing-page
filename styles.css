@@ -136,6 +136,7 @@ h2 {
   font-style: italic;
   font-weight: 300;
   width: 820px;
+  margin-bottom: 0;
 }
 
 .quote-person {
@@ -143,6 +144,7 @@ h2 {
   font-weight: 700;
   width: 820px;
   text-align: right;
+  margin-top: 0;
 }
 
 /* Call to Action */
